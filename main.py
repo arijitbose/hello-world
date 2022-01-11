@@ -1,5 +1,11 @@
 from stack import Stack
 def main():
+    
+    '''
+    Objective: To provide stack functionality
+    Input Parameter:None
+    Return value: None
+    '''
     while 1:
         print('Choose an option \n')
         print("1: Create Stack")
