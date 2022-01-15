@@ -1,2 +1,2 @@
 # hello-world
-My first repository to check Sphinx Functionality.
+My first repository to check Mkdocs Functionality.
